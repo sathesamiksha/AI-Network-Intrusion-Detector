@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n*.pyc\n.ipynb_checkpoints/\nintrusion_detection_model.pkl\n*.csv\n.env\n
